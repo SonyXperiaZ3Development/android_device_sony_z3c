@@ -19,7 +19,7 @@ include device/sony/shinano-common/BoardConfigCommon.mk
 #-include vendor/sony/z3c/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := D5803,D5833,z3c
+TARGET_OTA_ASSERT_DEVICE := D5803,d5803,D5833,d5833,Z3C,z3c,ARIES,aries
 
 TARGET_SPECIFIC_HEADER_PATH += device/sony/z3c/include
 
